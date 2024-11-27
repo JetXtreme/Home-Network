@@ -13,6 +13,12 @@ This repository documents the design, setup, and ongoing improvements to my adva
 
 ### **Network Topology**
 
+![Network Topology](./topology.png)
+
+This setup includes:
+- Ubiquiti USG 3P as the router and firewall.
+- Ubiquiti AC Pro for wireless connectivity.
+- Linksys switch for wired device expansion.
 
 ## 🔧 Features and Configurations
 
