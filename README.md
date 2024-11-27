@@ -13,7 +13,7 @@ This repository documents the design, setup, and ongoing improvements to my adva
 
 ### **Network Topology**
 
-![Network Topology](./Network Diagram.png)
+![Network Topology](Network Diagram.png)
 
 This setup includes:
 - Ubiquiti USG 3P as the router and firewall.
